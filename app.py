@@ -40,10 +40,11 @@ with tab2:
     st.write(f'O animal esolhido foi {animal}.')
     st.image(f'{animal}.jpg', width=300)
     if animal == 'gato':
-        st.video('https://www.youtube.com/shorts/MqppCgaND68')
+        st.video('https://www.youtube.com/watch?v=hvi3J3yBRXI')
     elif animal == "cachorro":
-        st.video('https://www.youtube.com/shorts/jXWElQaC-RA')
+        st.video('https://www.youtube.com/watch?v=6v4OgilckIc')
     elif animal == 'coelho':
-        st.video('https://www.youtube.com/shorts/9NQYHWO7K2E')
+        st.video('https://www.youtube.com/watch?v=ITTLEQ356BE')
+
 
     
