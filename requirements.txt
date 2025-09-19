@@ -1,0 +1,3 @@
+# informa as bibliotecas utilizadas
+
+streamlit==1.49.1
